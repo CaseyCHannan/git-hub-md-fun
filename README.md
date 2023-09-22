@@ -1,1 +1,1 @@
-# git-hub-md-fun
+# github-md-fun
